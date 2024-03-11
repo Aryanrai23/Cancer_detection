@@ -1,7 +1,5 @@
 # Project Details
-
 - **Author:** [Aryan Rai](https://github.com/Aryanrai23)
-- 
 - **Data Created:** 9/03/2024
 - **Last Modified:** 11/03/2024
 
